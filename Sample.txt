@@ -1,2 +1,5 @@
 Sample created on master
 Update sample on master branch
+Welcome to the sample
+Updated on dev branch
+
